@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/twbs/bootstrap.git",
+    "version": "v3.3.5",
+    "main": "bootstrap.js",
+    "name": "bootstrap3"
+}
